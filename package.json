@@ -1,0 +1,10 @@
+{
+  "name": "mba-basic-dockerfile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "TonnyRogers <antoniel15975@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
