@@ -1,0 +1,6 @@
+.git/
+.gitignore/
+.prettierrc
+node_modules/
+docker-compose.yaml
+Dockerfile
